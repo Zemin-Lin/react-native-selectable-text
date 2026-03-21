@@ -4,9 +4,9 @@
 
 ## 文档地址 / Documentation URL 
 
-[中文 / Chinese](https://gitee.com/react-native-oh-library/usage-docs/blob/master/zh-cn/react-native-selectable-text.md)
+[中文 / Chinese](https://gitcode.com/OpenHarmony-RN/usage-docs/blob/master/zh-cn/react-native-selectable-text.md)
 
-[英文 / English](https://gitee.com/react-native-oh-library/usage-docs/blob/master/en/react-native-selectable-text.md)
+[英文 / English](https://gitcode.com/OpenHarmony-RN/usage-docs/blob/master/en/react-native-selectable-text.md)
 
 ## Codegen
 
